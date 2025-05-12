@@ -21,3 +21,5 @@
   - Когда ночная подсветка включена автоматически (после заката)
 
 ## Установка и настройка
+Подробные инструкции по прошивке и настройке доступны в оригинальном репозитории (смотри раздел Local use in ESPHome):  
+[SmartHome-yourself/sonoff-tx-ultimate-for-esphome](https://github.com/SmartHome-yourself/sonoff-tx-ultimate-for-esphome)
