@@ -1,4 +1,4 @@
-# Конфигурация SONOFF-TX-Ultimate для ESPHome
+# Конфигурация SONOFF-TX-Ultimate для ESPHome и Home Assistant
 
 Этот проект предоставляет конфигурацию для устройства **SONOFF-TX-Ultimate** с использованием **ESPHome**.  
 Основан на репозитории: [SmartHome-yourself/sonoff-tx-ultimate-for-esphome](https://github.com/SmartHome-yourself/sonoff-tx-ultimate-for-esphome).
